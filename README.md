@@ -14,6 +14,7 @@
 
 <br/>
 
+. 
 - 🌱 I’m currently learning **Data science**
 
 - 📫 How to reach me **subhram336@gmail.com**
