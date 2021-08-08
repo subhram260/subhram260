@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/73134736/128637310-cb632415-5ef4-4a10-977e-aa5dece7c7b5.png">
 
-<br>
+<br/>
 <!-- https://user-images.githubusercontent.com/73134736/128637250-2c1cacb1-4ee6-4b03-94ea-bb7cec1cf356.png -->
 <!-- ![programmer-computer-programming-computer-software-clip-art-allergy-30eb3c7e1397009b32d1a3dce2274bfc]() -->
 <!-- ![hiclipart com](https://user-images.githubusercontent.com/73134736/128637310-cb632415-5ef4-4a10-977e-aa5dece7c7b5.png) -->
