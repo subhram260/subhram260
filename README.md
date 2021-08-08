@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhram260" alt="subhram260" /></a> </p>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/73134736/128637310-cb632415-5ef4-4a10-977e-aa5dece7c7b5.png">
+<img align="right" alt="Coding" width="250" margin="30" src="https://user-images.githubusercontent.com/73134736/128637310-cb632415-5ef4-4a10-977e-aa5dece7c7b5.png">
 
 <br/>
 <!-- https://user-images.githubusercontent.com/73134736/128637250-2c1cacb1-4ee6-4b03-94ea-bb7cec1cf356.png -->
@@ -14,7 +14,7 @@
 
 <br/>
 
-. 
+
 - 🌱 I’m currently learning **Data science**
 
 - 📫 How to reach me **subhram336@gmail.com**
