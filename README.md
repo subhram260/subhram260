@@ -40,7 +40,7 @@
 <br/><br/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhram260&show_icons=true&locale=en&layout=compact" alt="subhram260" height= /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhram260&show_icons=true&locale=en&layout=compact" alt="subhram260" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhram260&show_icons=true&locale=en" alt="subhram260" /></p>
 
