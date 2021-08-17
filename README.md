@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhram Patel</h1>
 <h3 align="center">A passionate Developer, Designer who loves bringing designs to life through coding.</h3>
 
-<p align="left"> <img src="https://profile-counter.glitch.me/subhram260/count.svg" alt="subhram260" width=875/> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/subhram260/count.svg" alt="subhram260" width=835/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhram260&row=1&column=7&margin-w=15" alt="subhram260" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhram260&row=1&column=7&margin-w=10" alt="subhram260" /></a> </p>
 
 <img align="right" alt="Coding" width="250" margin="30" src="https://user-images.githubusercontent.com/73134736/128637310-cb632415-5ef4-4a10-977e-aa5dece7c7b5.png">
 
