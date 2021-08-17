@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhram Patel</h1>
 <h3 align="center">A passionate Developer, Designer who loves bringing designs to life through coding.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhram260&label=Profile%20views&color=0e75b6&style=flat" alt="subhram260" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/subhram260/count.svg" alt="subhram260" width=3500/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhram260&row=2&column=3" alt="subhram260" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhram260&row=1&column=7&margin-w=30" alt="subhram260" /></a> </p>
 
 <img align="right" alt="Coding" width="250" margin="30" src="https://user-images.githubusercontent.com/73134736/128637310-cb632415-5ef4-4a10-977e-aa5dece7c7b5.png">
 
@@ -13,6 +13,7 @@
 <!-- ![hiclipart com](https://user-images.githubusercontent.com/73134736/128637310-cb632415-5ef4-4a10-977e-aa5dece7c7b5.png) -->
 
 
+<br/><br/>
 
 - 🌱 I’m currently learning **Data science**
 
@@ -37,10 +38,10 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 
   
-
+<br/><br/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhram260&show_icons=true&locale=en&layout=compact" alt="subhram260" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhram260&show_icons=true&locale=en&layout=compact" alt="subhram260" height= /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhram260&show_icons=true&locale=en" alt="subhram260" /></p>
 
